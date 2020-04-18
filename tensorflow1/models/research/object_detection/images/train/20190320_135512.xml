@@ -1,0 +1,26 @@
+<annotation>
+	<folder>last fotos</folder>
+	<filename>20190320_135512.jpg</filename>
+	<path>C:\Users\Zeca\Desktop\EI\prog4\last fotos\20190320_135512.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0-20</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>4</ymin>
+			<xmax>2188</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>

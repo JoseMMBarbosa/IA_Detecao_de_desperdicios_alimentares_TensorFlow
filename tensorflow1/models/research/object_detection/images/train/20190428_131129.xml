@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pedro</folder>
+	<filename>20190428_131129.jpg</filename>
+	<path>D:\pedro\20190428_131129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0-20</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>6</ymin>
+			<xmax>2231</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>

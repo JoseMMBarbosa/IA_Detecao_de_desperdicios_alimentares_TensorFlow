@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pedro</folder>
+	<filename>IMG_20190319_213213.jpg</filename>
+	<path>D:\pedro\IMG_20190319_213213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>21-40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>54</ymin>
+			<xmax>2084</xmax>
+			<ymax>1796</ymax>
+		</bndbox>
+	</object>
+</annotation>

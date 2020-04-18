@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pedro</folder>
+	<filename>20190416_212739.jpg</filename>
+	<path>D:\pedro\20190416_212739.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>41-60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>9</ymin>
+			<xmax>2121</xmax>
+			<ymax>1526</ymax>
+		</bndbox>
+	</object>
+</annotation>

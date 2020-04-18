@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pedro</folder>
+	<filename>20190414_124341.jpg</filename>
+	<path>D:\pedro\20190414_124341.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>81-100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>32</ymin>
+			<xmax>1795</xmax>
+			<ymax>1503</ymax>
+		</bndbox>
+	</object>
+</annotation>
